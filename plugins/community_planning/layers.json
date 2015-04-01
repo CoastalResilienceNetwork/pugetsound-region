@@ -1,0 +1,20 @@
+[
+    {
+        "agsSource": {
+            "url": "http://services.coastalresilience.org:6080/arcgis/rest/services",
+            "folderTitle": "Community_Planning",
+            "folders": [
+                {
+                    "name": "Lower_Snohomish",
+                    "services": [
+					    { "name": "Boundaries", "type":"dynamic" },
+						{ "name": "Infrastructure", "type":"dynamic" },
+						{ "name": "Fish_Habitat", "type":"dynamic" },
+						{ "name": "Agriculture", "type":"dynamic" },
+						{ "name": "Social_and_Economic", "type":"dynamic" }
+                    ]
+                }
+            ]
+        }
+    }
+]

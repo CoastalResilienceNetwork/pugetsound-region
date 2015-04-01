@@ -1,0 +1,20 @@
+[
+    {
+        "agsSource": {
+            "url": "http://services.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+            "folderTitle": "Coastal_Resilience",
+            "folders": [
+                {
+                    "name": "",
+                    "services": [
+						{ "name": "Social_and_Regulatory_Considerations", "type":"dynamic" },
+                        { "name": "Ecosystem_Components", "type":"dynamic" },
+                        { "name": "Ecosystem_Functions", "type":"dynamic" },
+                        { "name": "Flood_Hazards", "type":"dynamic" },
+						{ "name": "PSNERP", "type":"dynamic" }
+                    ]
+                }
+            ]
+        }
+    }
+]
