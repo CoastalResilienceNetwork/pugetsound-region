@@ -1,105 +1,20 @@
 [
-	{
+    {
         "agsSource": {
-            "url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/",
-			"folderTitle": "Lower Snohomish",
+            "url": "http://services.coastalresilience.org:6080/arcgis/rest/services",
+            "folderTitle": "Community_Planning",
             "folders": [
-				{
-					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
-					"name": "",
+                {
+                    "name": "Lower_Snohomish",
                     "services": [
-						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Boundaries", "showLayers": [
-                                {"id":77, "parentLayerId":-1 },
-                                {"id":78, "parentLayerId":-1 },
-                                {"id":79, "parentLayerId":-1 },
-                                {"id":80, "parentLayerId":-1 },
-                                {"id":81, "parentLayerId":-1 },
-                                {"id":82, "parentLayerId":-1 },
-                                {"id":83, "parentLayerId":-1 },
-                                {"id":84, "parentLayerId":-1 },
-                                {"id":85, "parentLayerId":-1 },
-                                {"id":86, "parentLayerId":-1 },
-                                {"id":87, "parentLayerId":-1 },
-                                {"id":88, "parentLayerId":87 },
-                                {"id":89, "parentLayerId":87 },
-                                {"id":90, "parentLayerId":87 },
-                                {"id":91, "parentLayerId":87 },
-                                {"id":92, "parentLayerId":87 },
-                                {"id":93, "parentLayerId":87 },
-                                {"id":94, "parentLayerId":87 },
-                                {"id":95, "parentLayerId":87 },
-                                {"id":96, "parentLayerId":87 },
-                                {"id":97, "parentLayerId":87 },
-                                {"id":98, "parentLayerId":87 }							
-							]
-						}	
-					]
-				},
-				{
-					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
-					"name": "",
-                    "services": [
-						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Infrastructure", "showLayers": [
-                                {"id":100, "parentLayerId":-1 },
-                                {"id":101, "parentLayerId":-1 },
-                                {"id":102, "parentLayerId":-1 },
-                                {"id":103, "parentLayerId":-1 },
-                                {"id":104, "parentLayerId":-1 },
-                                {"id":105, "parentLayerId":-1 },
-                                {"id":106, "parentLayerId":-1 },
-                                {"id":107, "parentLayerId":-1 },
-                                {"id":108, "parentLayerId":-1 },
-                                {"id":109, "parentLayerId":-1 }						
-							]
-						}	
-					]
-				},
-				{
-					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
-					"name": "",
-                    "services": [
-						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Fish Habitat", "showLayers": [
-                                {"id":111, "parentLayerId":-1 },
-                                {"id":112, "parentLayerId":-1 },
-                                {"id":113, "parentLayerId":-1 },
-                                {"id":114, "parentLayerId":-1 },
-                                {"id":115, "parentLayerId":-1 },
-                                {"id":116, "parentLayerId":-1 },
-                                {"id":117, "parentLayerId":-1 },
-                                {"id":118, "parentLayerId":-1 }							
-							]
-						}	
-					]
-				},
-				{
-					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
-					"name": "",
-                    "services": [
-						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Agriculture", "showLayers": [
-                                {"id":120, "parentLayerId":-1 },
-                                {"id":121, "parentLayerId":-1 },
-                                {"id":122, "parentLayerId":-1 },
-                                {"id":123, "parentLayerId":-1 },
-                                {"id":124, "parentLayerId":-1 },
-                                {"id":125, "parentLayerId":-1 },
-                                {"id":126, "parentLayerId":-1 }							
-							]
-						}	
-					]
-				},
-				{
-					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
-					"name": "",
-                    "services": [
-						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Social and Economic", "showLayers": [
-                                {"id":128, "parentLayerId":-1 },
-                                {"id":129, "parentLayerId":-1 },
-                                {"id":130, "parentLayerId":-1 }							
-							]
-						}	
-					]
-				}
-			]
+					    { "name": "Boundaries", "type":"dynamic" },
+						{ "name": "Infrastructure", "type":"dynamic" },
+						{ "name": "Fish_Habitat", "type":"dynamic" },
+						{ "name": "Agriculture", "type":"dynamic" },
+						{ "name": "Social_and_Economic", "type":"dynamic" }
+                    ]
+                }
+            ]
         }
-	}
+    }
 ]
