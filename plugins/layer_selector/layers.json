@@ -1,20 +1,126 @@
 [
-    {
+	{
         "agsSource": {
-            "url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
-            "folderTitle": "Coastal_Resilience",
+            "url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/",
+			"folderTitle": "Puget Sound",
             "folders": [
-                {
-                    "name": "",
+				{
+					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"name": "",
                     "services": [
-						{ "name": "Social_and_Regulatory_Considerations", "type":"dynamic" },
-                        { "name": "Ecosystem_Components", "type":"dynamic" },
-                        { "name": "Ecosystem_Functions", "type":"dynamic" },
-                        { "name": "Flood_Hazards", "type":"dynamic" },
-						{ "name": "PSNERP", "type":"dynamic" }
-                    ]
-                }
-            ]
+						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Social and Regulatory Considerations", "showLayers": [
+                                {"id":1, "parentLayerId":-1 },
+                                {"id":2, "parentLayerId":-1 },
+                                {"id":3, "parentLayerId":-1 },
+                                {"id":4, "parentLayerId":-1 },
+                                {"id":5, "parentLayerId":-1 },
+                                {"id":6, "parentLayerId":-1 },
+                                {"id":7, "parentLayerId":-1 },
+                                {"id":8, "parentLayerId":-1 },
+                                {"id":9, "parentLayerId":-1 }					
+							]
+						}	
+					]
+				},
+				{
+					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"name": "",
+                    "services": [
+						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Ecosystem Components", "showLayers": [
+                                {"id":11, "parentLayerId":-1 },
+                                {"id":12, "parentLayerId":-1 },
+                                {"id":13, "parentLayerId":-1 },
+                                {"id":14, "parentLayerId":-1 },
+                                {"id":15, "parentLayerId":-1 },
+                                {"id":16, "parentLayerId":-1 },
+                                {"id":17, "parentLayerId":-1 },
+                                {"id":18, "parentLayerId":-1 },
+                                {"id":19, "parentLayerId":-1 },
+                                {"id":20, "parentLayerId":-1 },
+                                {"id":21, "parentLayerId":-1 },
+                                {"id":22, "parentLayerId":-1 },
+                                {"id":23, "parentLayerId":-1 },
+                                {"id":24, "parentLayerId":-1 },
+                                {"id":25, "parentLayerId":-1 },
+                                {"id":26, "parentLayerId":-1 },
+                                {"id":27, "parentLayerId":-1 },
+                                {"id":28, "parentLayerId":-1 }					
+							]
+						}	
+					]
+				},
+				{
+					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"name": "",
+                    "services": [
+						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Ecosystem Functions", "showLayers": [
+                                {"id":30, "parentLayerId":-1 },
+                                {"id":31, "parentLayerId":-1 },
+                                {"id":32, "parentLayerId":-1 },
+                                {"id":33, "parentLayerId":-1 },
+                                {"id":34, "parentLayerId":-1 },
+                                {"id":35, "parentLayerId":-1 },
+                                {"id":36, "parentLayerId":-1 },
+                                {"id":37, "parentLayerId":-1 },
+                                {"id":38, "parentLayerId":-1 },
+                                {"id":39, "parentLayerId":-1 },
+                                {"id":40, "parentLayerId":-1 }      							
+							]
+						}	
+					]
+				},
+				{
+					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"name": "",
+                    "services": [
+						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Flood Hazards", "showLayers": [
+                                {"id":42, "parentLayerId":-1 },
+                                {"id":43, "parentLayerId":-1 },
+                                {"id":44, "parentLayerId":-1 },
+                                {"id":45, "parentLayerId":-1 },
+                                {"id":46, "parentLayerId":-1 },
+                                {"id":47, "parentLayerId":-1 }					
+							]
+						}	
+					]
+				},
+				{
+					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"name": "",
+                    "services": [
+						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"PSNERP", "showLayers": [
+                                {"id":49, "parentLayerId":-1 },
+                                {"id":50, "parentLayerId":49 },
+                                {"id":51, "parentLayerId":49 },
+                                {"id":52, "parentLayerId":49 },
+                                {"id":53, "parentLayerId":49 },
+                                {"id":54, "parentLayerId":49 },
+                                {"id":55, "parentLayerId":49 },
+                                {"id":56, "parentLayerId":49 },
+                                {"id":57, "parentLayerId":-1 },
+                                {"id":58, "parentLayerId":57 },
+                                {"id":59, "parentLayerId":57 },
+                                {"id":60, "parentLayerId":59 },
+                                {"id":61, "parentLayerId":59 },
+                                {"id":62, "parentLayerId":59 },
+                                {"id":63, "parentLayerId":57 },
+                                {"id":64, "parentLayerId":63 },
+                                {"id":65, "parentLayerId":63 },
+                                {"id":66, "parentLayerId":63 },
+                                {"id":67, "parentLayerId":63 },
+                                {"id":68, "parentLayerId":63 },
+                                {"id":69, "parentLayerId":57 },
+                                {"id":70, "parentLayerId":69 },
+                                {"id":71, "parentLayerId":69 },
+                                {"id":72, "parentLayerId":69 },
+                                {"id":73, "parentLayerId":69 },
+                                {"id":74, "parentLayerId":69 },
+                                {"id":75, "parentLayerId":69 }  							
+							]
+						}	
+					]
+				}
+			]
         }
-    }
+	}
 ]
