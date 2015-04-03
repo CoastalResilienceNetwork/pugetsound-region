@@ -8,7 +8,7 @@
 					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
-						{ "name": "Lower Snohomish", "type":"dynamic", "displayName":"Boundaries", "showLayers": [
+						{ "name": "Lower_Snohomish", "type":"dynamic", "displayName":"Boundaries", "showLayers": [
                                 {"id":1, "parentLayerId":-1 },
                                 {"id":2, "parentLayerId":-1 },
                                 {"id":3, "parentLayerId":-1 },
@@ -39,7 +39,7 @@
 					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
-						{ "name": "Lower Snohomish", "type":"dynamic", "displayName":"Infrastructure", "showLayers": [
+						{ "name": "Lower_Snohomish", "type":"dynamic", "displayName":"Infrastructure", "showLayers": [
                                 {"id":24, "parentLayerId":-1 },
                                 {"id":25, "parentLayerId":-1 },
                                 {"id":25, "parentLayerId":-1 },
@@ -58,7 +58,7 @@
 					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
-						{ "name": "Lower Snohomish", "type":"dynamic", "displayName":"Fish Habitat", "showLayers": [
+						{ "name": "Lower_Snohomish", "type":"dynamic", "displayName":"Fish Habitat", "showLayers": [
                                 {"id":35, "parentLayerId":-1 },
                                 {"id":36, "parentLayerId":-1 },
                                 {"id":37, "parentLayerId":-1 },
@@ -75,7 +75,7 @@
 					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
-						{ "name": "Lower Snohomish", "type":"dynamic", "displayName":"Agriculture", "showLayers": [
+						{ "name": "Lower_Snohomish", "type":"dynamic", "displayName":"Agriculture", "showLayers": [
                                 {"id":44, "parentLayerId":-1 },
                                 {"id":45, "parentLayerId":-1 },
                                 {"id":46, "parentLayerId":-1 },
@@ -91,7 +91,7 @@
 					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
-						{ "name": "Lower Snohomish", "type":"dynamic", "displayName":"Social and Economic", "showLayers": [
+						{ "name": "Lower_Snohomish", "type":"dynamic", "displayName":"Social and Economic", "showLayers": [
                                 {"id":52, "parentLayerId":-1 },
                                 {"id":53, "parentLayerId":-1 },
                                 {"id":54, "parentLayerId":-1 }							
