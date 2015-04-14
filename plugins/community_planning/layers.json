@@ -5,7 +5,7 @@
 			"folderTitle": "Lower Snohomish",
             "folders": [
 				{
-					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"url": "http://services.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
 						{ "name": "Lower_Snohomish", "type":"dynamic", "displayName":"Boundaries", "showLayers": [
