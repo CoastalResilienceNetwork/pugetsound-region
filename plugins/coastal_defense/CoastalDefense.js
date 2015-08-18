@@ -349,7 +349,7 @@ define([
 				console.log(this);
 				//gp = new esri.tasks.Geoprocessor("http://dev.network.coastalresilience.org/ArcGIS/rest/services/Puget_Sound/PS_NSWaves/GPServer/FindClosestPoint", this);
 				//gp = new esri.tasks.Geoprocessor("http://54.244.29.137:6080/arcgis/rest/services/PugetSound_CoastalDefense/FindClosestPoint/GPServer/FindClosestPoint", this);
-				gp = new esri.tasks.Geoprocessor("http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/PugetSound_CoastalDefense/FindClosestPoint/GPServer/FindClosestPoint", this);
+				gp = new esri.tasks.Geoprocessor("http://dev.services2.coastalresilience.org/arcgis/rest/services/PugetSound_CoastalDefense/FindClosestPoint/GPServer/FindClosestPoint", this);
 
 				
 				gp.execute(params, this.closestPoint, function(error) {console.log(error)}, this);
@@ -394,7 +394,7 @@ define([
 				console.log(params);
 				//gp = new esri.tasks.Geoprocessor("http://dev.network.coastalresilience.org/ArcGIS/rest/services/Puget_Sound/PS_NSWaves/GPServer/readProfile_marsh", this);
 				//gp = new esri.tasks.Geoprocessor("http://54.244.29.137:6080/arcgis/rest/services/PugetSound_CoastalDefense/readProfile_marsh/GPServer/readProfile_marsh", this);
-				gp = new esri.tasks.Geoprocessor("http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/PugetSound_CoastalDefense/readProfile/GPServer/readProfile_marsh", this);
+				gp = new esri.tasks.Geoprocessor("http://dev.services2.coastalresilience.org/arcgis/rest/services/PugetSound_CoastalDefense/readProfile/GPServer/readProfile_marsh", this);
 		
 
 				gp.execute(params, self.profileData, function(error) {console.log(error)});
@@ -1866,7 +1866,7 @@ define([
 				
 				//gp = new esri.tasks.Geoprocessor("http://dev.network.coastalresilience.org/ArcGIS/rest/services/Puget_Sound/PS_NSWaves/GPServer/generateProfile_plugin", this);
 				//gp = new esri.tasks.Geoprocessor("http://54.244.29.137:6080/arcgis/rest/services/PugetSound_CoastalDefense/generateProfile_Plugin/GPServer/generateProfile_plugin", this);
-				gp = new esri.tasks.Geoprocessor("http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/PugetSound_CoastalDefense/generateProfilePlugin/GPServer/generateProfile_plugin", this);
+				gp = new esri.tasks.Geoprocessor("http://dev.services2.coastalresilience.org/arcgis/rest/services/PugetSound_CoastalDefense/generateProfilePlugin/GPServer/generateProfile_plugin", this);
 
 
 				gp.execute(params, this.profileResults, function(error) {

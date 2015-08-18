@@ -1,11 +1,11 @@
 [
 	{
         "agsSource": {
-            "url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/",
+            "url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/",
 			"folderTitle": "Puget Sound",
             "folders": [
 				{
-					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
 						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Social and Regulatory Considerations", "showLayers": [
@@ -23,7 +23,7 @@
 					]
 				},
 				{
-					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
 						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Ecosystem Components", "showLayers": [
@@ -50,7 +50,7 @@
 					]
 				},
 				{
-					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
 						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Ecosystem Functions", "showLayers": [
@@ -70,7 +70,7 @@
 					]
 				},
 				{
-					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
 						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Flood Hazards", "showLayers": [
@@ -85,7 +85,7 @@
 					]
 				},
 				{
-					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
 						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"PSNERP", "showLayers": [

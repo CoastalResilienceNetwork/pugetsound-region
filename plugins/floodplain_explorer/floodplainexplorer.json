@@ -130,7 +130,7 @@
 				},
 				{
 					type: "featureLayer",
-					"url": "http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound/Floodplain_Explorer/MapServer/0",
+					"url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/Puget_Sound/Floodplain_Explorer/MapServer/0",
 					"lineSym0": [161,70,18,1],
 					"lineWidth": 1,
 					"opcaity": 0.25,
