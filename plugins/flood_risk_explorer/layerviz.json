@@ -1,5 +1,5 @@
 {
-    "url": "http://services.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound/Flood_Level_Rise/MapServer",
+    "url": "http://services.coastalresilience.org/arcgis/rest/services/Puget_Sound/Flood_Level_Rise/MapServer",
     "methods": "plugins/flood_risk_explorer/FinalReport_CIG_TNC_Snohomish--20141209.pdf",
 	"controls": [
         {

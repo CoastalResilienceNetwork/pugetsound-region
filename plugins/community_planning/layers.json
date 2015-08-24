@@ -1,11 +1,11 @@
 [
 	{
         "agsSource": {
-            "url": "http://services.coastalresilience.org:6080/arcgis/rest/services/",
+            "url": "http://services.coastalresilience.org/arcgis/rest/services/",
 			"folderTitle": "Lower Snohomish",
             "folders": [
 				{
-					"url": "http://services.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"url": "http://services.coastalresilience.org/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
 						{ "name": "Lower_Snohomish", "type":"dynamic", "displayName":"Boundaries", "showLayers": [
@@ -36,7 +36,7 @@
 					]
 				},
 				{
-					"url": "http://services.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"url": "http://services.coastalresilience.org/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
 						{ "name": "Lower_Snohomish", "type":"dynamic", "displayName":"Infrastructure", "showLayers": [
@@ -55,7 +55,7 @@
 					]
 				},
 				{
-					"url": "http://services.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"url": "http://services.coastalresilience.org/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
 						{ "name": "Lower_Snohomish", "type":"dynamic", "displayName":"Fish Habitat", "showLayers": [
@@ -72,7 +72,7 @@
 					]
 				},
 				{
-					"url": "http://services.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"url": "http://services.coastalresilience.org/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
 						{ "name": "Lower_Snohomish", "type":"dynamic", "displayName":"Agriculture", "showLayers": [
@@ -88,7 +88,7 @@
 					]
 				},
 				{
-					"url": "http://services.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound",
+					"url": "http://services.coastalresilience.org/arcgis/rest/services/Puget_Sound",
 					"name": "",
                     "services": [
 						{ "name": "Lower_Snohomish", "type":"dynamic", "displayName":"Social and Economic", "showLayers": [

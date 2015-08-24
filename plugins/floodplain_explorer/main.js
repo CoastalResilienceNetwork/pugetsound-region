@@ -669,7 +669,7 @@ function (declare,
 		
 		numberQuery: function() {
 			if (this.group == "fpu"){
-				var fpuQT = new esri.tasks.QueryTask("http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound/Floodplain_Explorer/MapServer/0");
+				var fpuQT = new esri.tasks.QueryTask("http://dev.services2.coastalresilience.org/arcgis/rest/services/Puget_Sound/Floodplain_Explorer/MapServer/0");
 				var fpuquery = new esri.tasks.Query();
 				fpuquery.where = this.f1q + " >= " + this.f1 + " AND " + this.f2q + " >= " + this.f2 + 	
 				" AND " + this.f3q + " >= " + this.f3 + " AND " + this.f4q + " >= " + this.f4 +	
@@ -685,7 +685,7 @@ function (declare,
 			}	
 			
 			if (this.group == "reach"){
-				var reachQT = new esri.tasks.QueryTask("http://dev.services2.coastalresilience.org:6080/arcgis/rest/services/Puget_Sound/Floodplain_Explorer/MapServer/3");
+				var reachQT = new esri.tasks.QueryTask("http://dev.services2.coastalresilience.org/arcgis/rest/services/Puget_Sound/Floodplain_Explorer/MapServer/3");
 				var reachquery = new esri.tasks.Query();
 				reachquery.where = "fn1_high_sqkm_reach >= " + this.f1 + " AND fn2_100_sqkm_reach >= " + this.f2 + 
 					" AND fn3_100_sqkm_reach >= " + this.f3 + " AND fn4_100_sqkm_reach >= " + this.f4 +	
