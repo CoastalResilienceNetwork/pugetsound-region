@@ -17,7 +17,10 @@
                                 {"id":6, "parentLayerId":-1 },
                                 {"id":7, "parentLayerId":-1 },
                                 {"id":8, "parentLayerId":-1 },
-                                {"id":9, "parentLayerId":-1 }					
+                                {"id":9, "parentLayerId":-1 },
+                                {"id":10, "parentLayerId":-1 },
+                                {"id":11, "parentLayerId":-1 },
+                                {"id":12, "parentLayerId":-1 }				
 							]
 						}	
 					]
@@ -27,9 +30,6 @@
 					"name": "",
                     "services": [
 						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Ecosystem Components", "showLayers": [
-                                {"id":11, "parentLayerId":-1 },
-                                {"id":12, "parentLayerId":-1 },
-                                {"id":13, "parentLayerId":-1 },
                                 {"id":14, "parentLayerId":-1 },
                                 {"id":15, "parentLayerId":-1 },
                                 {"id":16, "parentLayerId":-1 },
@@ -44,7 +44,10 @@
                                 {"id":25, "parentLayerId":-1 },
                                 {"id":26, "parentLayerId":-1 },
                                 {"id":27, "parentLayerId":-1 },
-                                {"id":28, "parentLayerId":-1 }					
+                                {"id":28, "parentLayerId":-1 },
+                                {"id":29, "parentLayerId":-1 },
+                                {"id":30, "parentLayerId":-1 },
+                                {"id":31, "parentLayerId":-1 }					
 							]
 						}	
 					]
@@ -54,9 +57,6 @@
 					"name": "",
                     "services": [
 						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Ecosystem Functions", "showLayers": [
-                                {"id":30, "parentLayerId":-1 },
-                                {"id":31, "parentLayerId":-1 },
-                                {"id":32, "parentLayerId":-1 },
                                 {"id":33, "parentLayerId":-1 },
                                 {"id":34, "parentLayerId":-1 },
                                 {"id":35, "parentLayerId":-1 },
@@ -64,7 +64,10 @@
                                 {"id":37, "parentLayerId":-1 },
                                 {"id":38, "parentLayerId":-1 },
                                 {"id":39, "parentLayerId":-1 },
-                                {"id":40, "parentLayerId":-1 }      							
+                                {"id":40, "parentLayerId":-1 },
+                                {"id":41, "parentLayerId":-1 },
+                                {"id":42, "parentLayerId":-1 },
+                                {"id":43, "parentLayerId":-1 }     							
 							]
 						}	
 					]
@@ -74,12 +77,12 @@
 					"name": "",
                     "services": [
 						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"Flood Hazards", "showLayers": [
-                                {"id":42, "parentLayerId":-1 },
-                                {"id":43, "parentLayerId":-1 },
-                                {"id":44, "parentLayerId":-1 },
                                 {"id":45, "parentLayerId":-1 },
                                 {"id":46, "parentLayerId":-1 },
-                                {"id":47, "parentLayerId":-1 }					
+                                {"id":47, "parentLayerId":-1 },
+                                {"id":48, "parentLayerId":-1 },
+                                {"id":49, "parentLayerId":-1 },
+                                {"id":50, "parentLayerId":-1 } 					
 							]
 						}	
 					]
@@ -89,33 +92,33 @@
 					"name": "",
                     "services": [
 						{ "name": "Puget_Sound", "type":"dynamic", "displayName":"PSNERP", "showLayers": [
-                                {"id":49, "parentLayerId":-1 },
-                                {"id":50, "parentLayerId":49 },
-                                {"id":51, "parentLayerId":49 },
-                                {"id":52, "parentLayerId":49 },
-                                {"id":53, "parentLayerId":49 },
-                                {"id":54, "parentLayerId":49 },
-                                {"id":55, "parentLayerId":49 },
-                                {"id":56, "parentLayerId":49 },
-                                {"id":57, "parentLayerId":-1 },
-                                {"id":58, "parentLayerId":57 },
-                                {"id":59, "parentLayerId":57 },
-                                {"id":60, "parentLayerId":59 },
-                                {"id":61, "parentLayerId":59 },
-                                {"id":62, "parentLayerId":59 },
-                                {"id":63, "parentLayerId":57 },
-                                {"id":64, "parentLayerId":63 },
-                                {"id":65, "parentLayerId":63 },
-                                {"id":66, "parentLayerId":63 },
-                                {"id":67, "parentLayerId":63 },
-                                {"id":68, "parentLayerId":63 },
-                                {"id":69, "parentLayerId":57 },
-                                {"id":70, "parentLayerId":69 },
-                                {"id":71, "parentLayerId":69 },
-                                {"id":72, "parentLayerId":69 },
-                                {"id":73, "parentLayerId":69 },
-                                {"id":74, "parentLayerId":69 },
-                                {"id":75, "parentLayerId":69 }  							
+                                {"id":52, "parentLayerId":-1 },
+                                {"id":53, "parentLayerId":52 },
+                                {"id":54, "parentLayerId":52 },
+                                {"id":55, "parentLayerId":52 },
+                                {"id":56, "parentLayerId":52 },
+                                {"id":57, "parentLayerId":52 },
+                                {"id":58, "parentLayerId":52 },
+                                {"id":59, "parentLayerId":52 },
+                                {"id":60, "parentLayerId":-1 },
+                                {"id":61, "parentLayerId":60 },
+                                {"id":62, "parentLayerId":60 },
+                                {"id":63, "parentLayerId":62 },
+                                {"id":64, "parentLayerId":62 },
+                                {"id":65, "parentLayerId":62 },
+                                {"id":66, "parentLayerId":-1 },
+                                {"id":67, "parentLayerId":66 },
+                                {"id":68, "parentLayerId":66 },
+                                {"id":69, "parentLayerId":66 },
+                                {"id":70, "parentLayerId":66 },
+                                {"id":71, "parentLayerId":66 },
+                                {"id":72, "parentLayerId":-1 },
+                                {"id":73, "parentLayerId":72 },
+                                {"id":74, "parentLayerId":72 },
+                                {"id":75, "parentLayerId":72 },
+                                {"id":76, "parentLayerId":72 },
+                                {"id":77, "parentLayerId":72 },
+                                {"id":78, "parentLayerId":72 }   							
 							]
 						}	
 					]
