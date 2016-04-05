@@ -6,7 +6,7 @@
 		{
 			"name": "Nisqually",
 			"extent": {"xmin":-13681883.60484516,"ymin":5941033.206090683,"xmax":-13634249.96296584,"ymax":5976836.95449228,"spatialReference":{"wkid":102100,"latestWkid":3857}},
-			"methods": "methods/Puget_SLR_Scenarios.pdf",
+			"methods": "methods/CR Inundation Layer Memo.pdf",
 			"controls": [
 				{"name":"Choose Tidal Level", "type": "slider", "index":0, "values":[ {"name":"None","value":"None", "selected": true},{"name":"MHHW","value":"MHHW"},{"name":"HOW","value":"HOW"}]},
 				{"name":"Choose Year", "type": "slider", "index":1, "values":[{"name":"2010","value":"2010", "selected": true},{"name":"2050", "value":"2050"}, {"name":"2100", "value":"2100"}]},
