@@ -11,6 +11,10 @@
         {
             "repo": "map-tree",
             "name": "community_planning"
-    }
+		},
+		{
+			"repo": "regional-planning",
+			"name": "regional-planning"
+		}
    ]
 }
