@@ -1,13 +1,13 @@
 {
-  "plugins": [
-    {
-      "repo": "multiSelect",
-      "name": "flood_slr"
-              },
+    "plugins": [
+		{
+			"repo": "multiSelect",
+			"name": "flood_slr"
+        },
         {
             "repo": "map-tree",
             "name": "layer_selector"
-                    },
+		},
         {
             "repo": "map-tree",
             "name": "community_planning"
@@ -16,5 +16,5 @@
 			"repo": "regional-planning",
 			"name": "regional-planning"
 		}
-   ]
+	]
 }
