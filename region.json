@@ -41,12 +41,7 @@
         { "name": "Terrain"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer" }
     ],
     "pluginOrder": [
-		"floodplain_explorer",
-		"flood_risk_explorer",
 		"regional-planning",
-		"community_planning",
-		"flood_slr",
-		"coastal_defense",
         "zoom_to",
         "measure",
         "legend_display",
@@ -54,7 +49,7 @@
         "subregion_toggle"
     ],
     "print": {
-        "printServerUrl": "http://services.coastalresilience.org:6080/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task", "customPrintTemplatePrefix": "Letter ANSI A GeositeFramework"  
+        "printServerUrl": "http://services.coastalresilience.org:6080/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task", "customPrintTemplatePrefix": "Letter ANSI A GeositeFramework"
     },
     "colors": {
        "primary": "#45812B",
