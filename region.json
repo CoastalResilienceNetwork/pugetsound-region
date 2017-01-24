@@ -53,7 +53,9 @@
     },
     "colors": {
        "primary": "#45812B",
-       "secondary": "#26648E"
+       "secondary": "#26648E",
+       "tertiary": "#333333",
+       "active": "#0096D6"
     },
     "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "subregions": {
