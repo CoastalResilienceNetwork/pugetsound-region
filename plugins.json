@@ -3,6 +3,11 @@
 		{
 			"repo": "regional-planning",
 			"name": "regional-planning"
+		},
+	    	{
+			"repo": "3d-sample",
+			"name": "3d-sample",
+			"rev": "84d980d8b51d4ce39032bf754234d452a1ce2550"
 		}
 	]
 }
