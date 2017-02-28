@@ -41,10 +41,10 @@
         { "name": "Terrain"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer" }
     ],
     "pluginOrder": [
-        "layer_selector",
+        "regional-planning",
+		"community_planning",
 		"floodplain_explorer",
 		"flood_risk_explorer",
-		"community_planning",
 		"flood_and_slr",
 		"coastal_defense",
         "zoom_to",
