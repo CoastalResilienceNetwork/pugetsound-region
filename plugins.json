@@ -4,13 +4,12 @@
 		"repo": "multiSelect",
 		"name": "flood_slr"
     },
-	{
-	  "repo": "regional-planning",
-	  "name": "regional-planning"
+	{   "repo": "regional-planning",
+		"name": "regional-planning"
 	},
-	{
-	  "repo": "regional-planning",
-	  "name": "community_planning"
+	{   
+		"repo": "regional-planning",
+		"name": "community_planning"
 	}
   ]
 }
