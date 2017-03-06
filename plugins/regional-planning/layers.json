@@ -75,11 +75,9 @@
 			},
 			{
 				"name" : "Habitats, Grays Harbor Cnty, WA",
-				"includeAllLayers" : true
 			},
 			{
 				"name" : "Habitats, Pacific County, WA",
-				"includeAllLayers" : true
 			}
 		]
     }
