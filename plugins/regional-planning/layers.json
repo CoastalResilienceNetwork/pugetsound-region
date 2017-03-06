@@ -55,5 +55,32 @@
 				]
 			}	
 		]
+    },
+    {
+        "displayName": "Outer Coast",
+        "server": {
+            "type": "ags",
+            "layerType": "dynamic",
+            "url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/Puget_Sound",
+            "name": "Puget_Sound"
+        },
+        "includeLayers": [
+			{
+				"name" : "Coastal Exposure and Habitat Roles, Grays Harbor Cnty, WA",
+				"includeAllLayers" : true
+			},
+			{
+				"name" : "Coastal Exposure and Habitat Roles, Pacific County, WA",
+				"includeAllLayers" : true
+			},
+			{
+				"name" : "Habitats, Grays Harbor Cnty, WA",
+				"includeAllLayers" : true
+			},
+			{
+				"name" : "Habitats, Pacific County, WA",
+				"includeAllLayers" : true
+			}
+		]
     }
 ]
