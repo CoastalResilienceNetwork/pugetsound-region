@@ -2,7 +2,8 @@
     "plugins": [
 		{
 			"repo": "regional-planning",
-			"name": "regional-planning"
+			"name": "regional-planning",
+			"rev": "e1642ae597f0247ca80ea8dbce1e64987c47d544"
 		},
 	    	{
 			"repo": "3d-sample",
