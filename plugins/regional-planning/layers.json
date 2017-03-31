@@ -66,11 +66,11 @@
         },
         "includeLayers": [
 			{
-				"name" : "Coastal Exposure and Habitat Roles, Grays Harbor Cnty, WA",
+				"name" : "Coastal Vulnerability and Habitat Roles, Grays Harbor Cnty, WA",
 				"includeAllLayers" : true
 			},
 			{
-				"name" : "Coastal Exposure and Habitat Roles, Pacific County, WA",
+				"name" : "Coastal Vulnerability and Habitat Roles, Pacific County, WA",
 				"includeAllLayers" : true
 			},
 			{
